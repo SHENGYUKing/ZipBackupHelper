@@ -14,12 +14,12 @@ In daily study and work,  I regularly need to zip and pack some of directories i
 
 ### module:
 
-> tqdm 4.62.3
-> zipfile (in-built)
-> time (in-built)
-> json (in-built)
-> sys (in-built)
-> os (in-built)
+> tqdm 4.62.3    
+> zipfile (in-built)    
+> time (in-built)    
+> json (in-built)    
+> sys (in-built)    
+> os (in-built)    
 
 ---
 
