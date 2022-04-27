@@ -39,14 +39,14 @@ test1、test2、test3均为测试用例，仅供开发使用；BackupHelper.json
 
 ## Using - 使用说明
 
-1. Put the .exe and .josn in the same directory. 
+1. Put the .exe and .josn in the same directory.    
    将.exe和.json文件放在同一个工作目录下
 
-2. Read ***Description*** in BackupHelper.json, and modify  ***BackupDirectory***. 
+2. Read ***Description*** in BackupHelper.json, and modify  ***BackupDirectory***.    
    阅读.json文件中的描述并根据指导修改当前配置
 
-3. Double-click the .exe and you will ... 
+3. Double-click the .exe and you will ...    
    双击.exe程序然后看看会发生啥...
 
-PS: Please leave me a message if something goes wrong during this process.
+PS: Please leave me a message if something goes wrong during this process.    
        如果在此过程中发生了什么问题欢迎给我留言。
